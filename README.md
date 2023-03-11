@@ -80,4 +80,4 @@ Use it to download various versions of Wikipedia and other encylopedic websites 
 
 **[Termux](https://f-droid.org/fr/packages/com.termux/)** is a great app that adds a linux-like terminal and command line applications to your Android OS. If you want to write command line scripts in Python, LUA or PHP, or if you want to compile C/C++ application directly on your outdated Android device, Termux is the way to go !
 > | :x: Android 2.3.3 :x:  | :x: Android 4.2.1 :x: | :recycle: Android 5.1 :+1: |
-> |---|---|
+> |---|---|---|
