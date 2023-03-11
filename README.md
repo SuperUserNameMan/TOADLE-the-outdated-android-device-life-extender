@@ -1,4 +1,4 @@
-# TOADLE : The Outdated Android Device Life Extender
+# TOADLE : The Outdated Android Devices Life Extender
 
 This is a collection of ideas to extend the life of your outdated Android devices that are rotting in a drawer awaiting a new purpose or an ultimate jump into the void of your bin.
 
