@@ -86,6 +86,6 @@ Use it to download various versions of Wikipedia and other encylopedic websites 
 ### an offline GPS map for your car, your bike, your wheelchair or your shoes :
 
 **[OSmand+](https://f-droid.org/fr/packages/net.osmand.plus/)** is a very good alternative to Google Map. You can download entire maps to be 100% offline. Perfect compagnon if you go on excursion into the wild.
-> | :x: Android 2.3.3 :x:  | :question: Android 4.2.1 :question: | :recycle: Android 5.1 :+1: |
+> | :x: Android 2.3.3 :x:  | :x: Android 4.2.1 :x: | :recycle: Android 5.1 :+1: |
 > |---|---|---|
 
